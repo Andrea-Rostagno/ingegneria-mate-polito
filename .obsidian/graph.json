@@ -1,0 +1,275 @@
+{
+  "collapse-filter": false,
+  "search": "path:Competenze",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[corsi:\"Analisi 1\"]",
+      "color": {
+        "a": 1,
+        "rgb": 15429139
+      }
+    },
+    {
+      "query": "[corsi:\"Algebra lineare\"]",
+      "color": {
+        "a": 1,
+        "rgb": 5632452
+      }
+    },
+    {
+      "query": "[corsi:\"Matematica discreta\"]",
+      "color": {
+        "a": 1,
+        "rgb": 15611117
+      }
+    },
+    {
+      "query": "[corsi:\"Fisica 1\"]",
+      "color": {
+        "a": 1,
+        "rgb": 10803238
+      }
+    },
+    {
+      "query": "[corsi:\"Informatica\"]",
+      "color": {
+        "a": 1,
+        "rgb": 6461411
+      }
+    },
+    {
+      "query": "[corsi:\"Chimica\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14566487
+      }
+    },
+    {
+      "query": "[corsi:\"Analisi 2\"]",
+      "color": {
+        "a": 1,
+        "rgb": 456751
+      }
+    },
+    {
+      "query": "[corsi:\"Fisica 2\"]",
+      "color": {
+        "a": 1,
+        "rgb": 10243066
+      }
+    },
+    {
+      "query": "[corsi:\"Metodi matematici e probabilità\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16369193
+      }
+    },
+    {
+      "query": "[corsi:\"Metodi numerici\"]",
+      "color": {
+        "a": 1,
+        "rgb": 1303019
+      }
+    },
+    {
+      "query": "[corsi:\"Quantum physics\"]",
+      "color": {
+        "a": 1,
+        "rgb": 15816124
+      }
+    },
+    {
+      "query": "[corsi:\"Ricerca operativa\"]",
+      "color": {
+        "a": 1,
+        "rgb": 7990836
+      }
+    },
+    {
+      "query": "[corsi:\"Meccanica\"]",
+      "color": {
+        "a": 1,
+        "rgb": 2503896
+      }
+    },
+    {
+      "query": "[corsi:\"Geometria differenziale\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14909026
+      }
+    },
+    {
+      "query": "[corsi:\"Istituzioni algebra\"]",
+      "color": {
+        "a": 1,
+        "rgb": 4513426
+      }
+    },
+    {
+      "query": "[corsi:\"Istituzioni topologia\"]",
+      "color": {
+        "a": 1,
+        "rgb": 13043448
+      }
+    },
+    {
+      "query": "[corsi:\"Prob e statistica\"]",
+      "color": {
+        "a": 1,
+        "rgb": 15399499
+      }
+    },
+    {
+      "query": "[corsi:\"Analisi funzionale\"]",
+      "color": {
+        "a": 1,
+        "rgb": 2730745
+      }
+    },
+    {
+      "query": "[corsi:\"Programmazione e calcolo scientifico\"]",
+      "color": {
+        "a": 1,
+        "rgb": 15405914
+      }
+    },
+    {
+      "query": "[corsi:\"Base di dati\"]",
+      "color": {
+        "a": 1,
+        "rgb": 5960021
+      }
+    },
+    {
+      "query": "[corsi:\"Matematica per l'AI\"]",
+      "color": {
+        "a": 1,
+        "rgb": 6501614
+      }
+    },
+    {
+      "query": "[corsi:\"Equazioni alle derivate parziali\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14190630
+      }
+    },
+    {
+      "query": "[corsi:\"Equazioni di fisica matematica\"]",
+      "color": {
+        "a": 1,
+        "rgb": 6480846
+      }
+    },
+    {
+      "query": "[corsi:\"Prova finale\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14566601
+      }
+    },
+    {
+      "query": "[corsi:\"Processi stocastici\"]",
+      "color": {
+        "a": 1,
+        "rgb": 9631750
+      }
+    },
+    {
+      "query": "[corsi:\"Modelli statistici\"]",
+      "color": {
+        "a": 1,
+        "rgb": 4947450
+      }
+    },
+    {
+      "query": "[corsi:\"Statistica computazionale\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16329257
+      }
+    },
+    {
+      "query": "[corsi:\"Financial engineering\"]",
+      "color": {
+        "a": 1,
+        "rgb": 1305427
+      }
+    },
+    {
+      "query": "[corsi:\"Numerical opt\"]",
+      "color": {
+        "a": 1,
+        "rgb": 11621873
+      }
+    },
+    {
+      "query": "[corsi:\"Ottimizzazione in condizione di incertezza\"]",
+      "color": {
+        "a": 1,
+        "rgb": 15652916
+      }
+    },
+    {
+      "query": "[corsi:\"Dinamiche su network\"]",
+      "color": {
+        "a": 1,
+        "rgb": 2537944
+      }
+    },
+    {
+      "query": "[corsi:\"Data science tecnologie basi di dati\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14901927
+      }
+    },
+    {
+      "query": "[corsi:\"Data science lab\"]",
+      "color": {
+        "a": 1,
+        "rgb": 6938180
+      }
+    },
+    {
+      "query": "[corsi:\"Business intelligence per big data\"]",
+      "color": {
+        "a": 1,
+        "rgb": 1181432
+      }
+    },
+    {
+      "query": "[corsi:\"Blockchain e criptoeconomia\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16418635
+      }
+    },
+    {
+      "query": "[corsi:\"Crittografia\"]",
+      "color": {
+        "a": 1,
+        "rgb": 2750893
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7071415914726269,
+  "close": false
+}
